@@ -1,0 +1,56 @@
+body {
+  font-family: 'Arial';
+  background-color: rgb(23, 22, 22);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.game-container {
+  text-align: center;
+  background-color: rgb(226, 218, 218);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.coin-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  background-color: #ffd700;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-left: 70px;  
+}
+
+.play-buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.play-button:hover {
+  background-color: #45a049;
+}
+
+.score {
+  font-size: 18px;
+  font-weight: bold;
+}
