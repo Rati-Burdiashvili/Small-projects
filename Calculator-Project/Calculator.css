@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: Arial;
+  color: white;
+  font-size: 30px
+}
+
+button {
+  font-family: Arial;
+  font-size: 25px;
+  color: white;
+  border: none;
+  height: 72px;
+  width: 72px;
+  border-radius: 36px;
+}
+
+.container {
+  margin-left: 600px;
+}
+
+.gray-button {
+  background-color: rgb(59, 59, 59);
+}
+
+.orange-button {
+  background-color: orange;
+}
+
+.extra-button {
+  font-size: 20px;
+}
