@@ -1,0 +1,14 @@
+Guide to use virtual_library.js
+
+The program was coded in VScode. The program can be accessed and controlled through the terminal.
+
+1. Go to File -> Open Folder -> Open the folder where the .js file is located.
+2. Open a new terminal and type in "node virtual_library.js". This will display the data of the library and at the bottom will show every command you can take.
+3. For the purposes of the assignment, I had randomly selected books through random generation and used placeholder names for the users.
+4. For the program to function, it requires Node.js installed.(It's a javascript runtime enviroment.)
+
+
+This assignment was submitted by Rati Burdiashvili, 15/07/2025.
+Gmail: burdiashvilirati@gmail.com
+Phone: 597 41 77 00
+Thank you for your time
